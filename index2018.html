@@ -601,12 +601,24 @@ layout: default2018
 							<label for="form_company">Company/Organization</label>
 							<input id="form_company" type="text" name="company" class="form-control" placeholder="" required="required" data-error="Company is required.">
 							<div class="help-block with-errors"></div>
+							</div>
 						</div>
 					</div>
 
-
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for="form_reason">Reason</label>
+							<select id="form_reason" name="reason" class="form-control">
+								<option value="Post Show Report">Post Show Report - May 2018</option>
+								<option value="Presentations">Presentations - PDF - May 2018</option>
+								<option value="Videos">Videos - May 2018</option>
+								<option value="Other">Other</option>
+							</select>
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
 				</div>
-
 
 					<div class="col-md-12">
 						<input type="submit" class="btn btn-success btn-send" value="Send">
