@@ -7,7 +7,7 @@ title:  "Dale Tibodeau"
 name: "Dr. Dale Tibodeau"
 position: "Professor of Supply Chain Management, C. T. Bauer College of Business"
 blurb: ""
-categories: speakers
+categories: advisors
 image: "/res/people/Dale-Tibodeau.jpg"
 ---
 
