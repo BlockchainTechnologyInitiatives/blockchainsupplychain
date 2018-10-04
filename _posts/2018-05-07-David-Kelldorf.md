@@ -10,4 +10,4 @@ blurb: "Mr. David Kelldorf is the Chief Technology Officer of NASA's Johnson Spa
 categories: speakers
 image: "/res/people/David-Kelldorf_Chief-Technology-Officer_NASA_v2.jpeg"
 ---
-Experienced Board Chair skilled in Analytical Skills, Requirements Analysis, Government, and Systems Engineering.
+
