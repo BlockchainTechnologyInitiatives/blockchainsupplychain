@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-05-05 12:00:00 -0600
 
 title:  "Melanie Nuce"
-name: "Ms. Melanie Nuce"
+name: "Ms. Melanie Nuce*"
 position: "Senior Vice President, GS1"
 blurb: "Ms. Melanie Nuce is a Senior Vice President at GS1."
 categories: speakers
