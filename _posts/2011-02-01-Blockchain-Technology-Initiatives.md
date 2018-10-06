@@ -9,7 +9,7 @@ position: "Organizing Partner"
 blurb: "Blockchain Technology Initiatives Inc’s purpose is to study, promote, develop, and provide blockchain related technology solutions for problems in society-at-large."
 categories: organizer-company sponsor-organizing
 image: "/res/people/Sponsor-Blockchain-Technology-Initiatives.png"
-website: "https://blockchaintechnologyinitiatives.org"
+website: ""
 ---
 
 Blockchain Technology Initiatives is a nonprofit, public interest organization whose mission is to solve problems in society-at-large through the research, education, and application of blockchain and related technology.
