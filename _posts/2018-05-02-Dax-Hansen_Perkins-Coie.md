@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-03-04 12:00:00 -0600
 
 title:  "Dax Hansen"
-name: "Mr. Dax Hansen"
+name: "Mr. Dax Hansen*"
 position: "Partner, Perkins Coie"
 blurb: "Mr. Dax Hansen is a Partner Perkins Coie."
 categories: speakers
