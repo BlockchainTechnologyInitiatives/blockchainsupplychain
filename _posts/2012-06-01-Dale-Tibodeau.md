@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2012-06-01 15:00:00 -0600
 
 title:  "Dale Tibodeau"
-name: "Dr. Dale Tibodeau*"
+name: "Dr. Dale Tibodeau"
 position: "Professor, Supply Chain Mgmt, C. T. Bauer College of Business, University of Houston"
 blurb: "Dr. Dale Tibodeau is a Professor of Supply Chain Management in the C. T. Bauer College of Business at University of Houston"
 categories: advisors
