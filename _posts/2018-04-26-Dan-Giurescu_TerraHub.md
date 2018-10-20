@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: person/:title
-date: 2018-05-01 11:46:00 -0600
+date: 2018-02-24 12:00:00 -0600
 
 title:  "Dan Giurescu"
 name: "Mr. Dan Giurescu"
