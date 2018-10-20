@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: person/:title
-date: 2018-05-05 1:10:00 -0600
+date: 2018-05-05 12:59:00 -0600
 
 title:  "Tyler Mulvihill"
 name: "Mr. Tyler Mulvihill"
