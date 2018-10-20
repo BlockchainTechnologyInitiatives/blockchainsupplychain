@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: person/:title
-date: 2018-05-01 12:55:00 -0600
+date: 2018-02-24 12:00:00 -0600
 
 title:  "Claudio Lima"
 name: "Dr. Claudio Lima*"
