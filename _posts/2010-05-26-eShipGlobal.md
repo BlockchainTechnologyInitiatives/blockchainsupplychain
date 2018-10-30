@@ -7,7 +7,7 @@ title:  "eShipGlobal"
 name: "eShipGlobal"
 position: "Gold Sponsor"
 blurb: ""
-categories: sponsors-main
+categories: sponsors-gold
 image: "/res/people/Sponsor_eShip-Global_260x260px.jpg"
 website: "http://www2.eshipglobal.com"
 ---
