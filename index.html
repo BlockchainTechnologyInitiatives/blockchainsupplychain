@@ -116,11 +116,33 @@ layout: default
 <hr class="clearfix w-100 d-md-none standard-break">
 
 <section class="container">
-	<div id="sponsors" class="people-list">
+	<div id="gold sponsors" class="people-list">
 		<h1>Sponsors & Partners</h1>
 		<p class="notice">Interested in sponsoring? Contact us at sponsors@blockchainsupplychain.io.</p>
 
 		<h2>Gold Sponsors</h2>
+		<div class="row">
+		{% for post in site.categories.sponsors-gold %}
+			<div class="card col-lg-3 col-md-3 col-sm-4 col-xs-6 col-xxs-12">
+				<a href="{{ post.url }}">
+					<img src="{{ post.image }}" alt="">
+				</a>
+				<div class="caption">
+					<a href="{{ post.url }}">
+						<h4>{{ post.name }}</h4>
+					</a>
+					<p></p>
+				</div>
+			</div>
+		{% endfor %}
+		</div>
+
+<section class="container">
+	<div id="sponsors" class="people-list">
+		<h1>Sponsors & Partners</h1>
+		<p class="notice">Interested in sponsoring? Contact us at sponsors@blockchainsupplychain.io.</p>
+
+		<h2>Sponsors</h2>
 		<div class="row">
 		{% for post in site.categories.sponsors-main %}
 			<div class="card col-lg-3 col-md-3 col-sm-4 col-xs-6 col-xxs-12">
@@ -136,8 +158,6 @@ layout: default
 			</div>
 		{% endfor %}
 		</div>
-
-
 		<h2>Media Partners</h2>
 		<div class="row">
 		{% for post in site.categories.sponsors-media %}
