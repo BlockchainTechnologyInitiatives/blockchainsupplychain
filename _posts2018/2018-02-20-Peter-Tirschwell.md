@@ -1,6 +1,6 @@
 ---
 layout: person2018
-youtube: 
+youtube: https://www.youtube.com/watch?v=s85H39ZvRWY&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=4&t=13s
 otherlinks: 
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
@@ -12,6 +12,7 @@ blurb: ""
 categories: speakers
 image: "/res2018/people/Peter-Tirschwell.jpg"
 ---
+Maritime Trade Panel: https://www.youtube.com/watch?v=r3upez_owmA&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=9&t=14s
 
 Mr. Peter Tirschwell is executive director of content for Maritime & Trade at IHS Markit, a leading global provider of maritime data, analysis, consulting and media.
 
