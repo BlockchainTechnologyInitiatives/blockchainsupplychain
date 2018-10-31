@@ -12,6 +12,7 @@ blurb: ""
 categories: speakers
 image: "/res2018/people/Andrew-Bruce.png"
 ---
+Blockchain Investment Panel: https://www.youtube.com/watch?v=k1rqEup29yY&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=14&t=16s
 
 Mr Bruce is CEO of Data Gumbo. For busy executives tasked with making/saving the company 100s of millions of dollars Data Gumbo adds your company to an Industrial Blockchain which results in the company being more profitable and you being recognized as an industry leader.
 
