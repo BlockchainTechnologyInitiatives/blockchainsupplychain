@@ -9,7 +9,7 @@ title:  "Michael Prokop"
 name: "Mr. Michael Prokop"
 position: "Managing Director, Deloitte & Touche, LLP"
 blurb: ""
-categories: speakers
+categories: 
 image: "/res2018/people/Michael-Prokop.jpg"
 ---
 
