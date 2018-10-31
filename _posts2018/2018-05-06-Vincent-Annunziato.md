@@ -1,7 +1,7 @@
 ---
 layout: person2018
-youtube: https://www.youtube.com/watch?v=9mFA8PsKnHg
-otherlinks: https://www.mcafee.com/enterprise/en-us/assets/reports/rp-blockchain-security-risks.pdf
+youtube: https://www.youtube.com/watch?v=2TcmykoYdqg&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=20&t=0s
+otherlinks: https://xchain2.docsend.com/view/i458y66
 permalink: person2018/:title
 date: 2018-03-04 12:00:00 -0600
 
