@@ -12,6 +12,7 @@ blurb: ""
 categories: speakers
 image: "/res2018/people/Allison-Clift-Jennings.jpg"
 ---
+Blockchain Investment Panel: https://www.youtube.com/watch?v=k1rqEup29yY&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=14&t=16s
 
 Allison is the CEO and co-founder of Filament. Her vision for bringing economic capability to connected physical machines used in business and industrial environments is the cornerstone of Filament’s technology solutions. Allison’s technical leadership and entrepreneurial mindset supported the creation of Filament’s Blocklet Chip™, the first secure hardware solution for the Internet of Things (IoT) blockchain technology space.
 
