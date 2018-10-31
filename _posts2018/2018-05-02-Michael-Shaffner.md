@@ -12,6 +12,7 @@ blurb: "Mr. Michael Shaffner is Director of Operations Planning and Technology a
 categories: speakers
 image: "/res2018/people/Michael-Shaffner.jpg"
 ---
+Special Introduction - Port Houston: https://www.youtube.com/watch?v=uLCpq76UCPk&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=8&t=0s
 
 Michael Shaffner joined Port Houston in 2015. He serves as director of planning and technology for the operations department, overseeing facility master planning activities, technology development and implementation.
 
