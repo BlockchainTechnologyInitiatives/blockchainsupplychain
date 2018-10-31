@@ -10,7 +10,7 @@ title:  "Bill McBeath"
 name: "Mr. Bill McBeath"
 position: "Chief Research Officer, ChainLink Research"
 blurb: "Mr. Bill McBeath is Chief Research Officer of ChainLink Research, a leading research and advisory firm in the supply chain industry."
-categories: advisors speakers
+categories: advisors 
 image: "/res2018/people/Bill-McBeath.jpg"
 ---
 
