@@ -18,3 +18,5 @@ Alexander Varvarenko is Owner and CEO of a [VARAMAR Group](http://www.varamar.co
 Mr. Varvarenko succeeded in automating and digitalizing the most complex segment of shipping - dry-bulk, wet-bulk and heavy/oversized cargo. His next step is integrating Blockchain on ShipNEXT and introducing a full-scale crypto-currency exchange in sea-freight.
 
 Alexander has 17 years experience in shipping industry. He is a Founder of the Ukrainian ShipBrokers Club. At XChain2, he will be representing ShipNEXT - the automated digital block-chain based shipping marketplace.
+
+<a href="https://www.youtube.com/watch?v=r3upez_owmA&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=9&t=14s">Maritime Trade Panel & End-to-end Supply Chain Collaboration
