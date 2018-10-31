@@ -1,7 +1,7 @@
 ---
 layout: person2018
-youtube: 
-otherlinks: 
+youtube: https://www.youtube.com/watch?v=RefqC7WfBoc&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=10&t=11s
+otherlinks: https://xchain2.docsend.com/view/uvzq3w3
 permalink: person2018/:title
 date: 2018-03-01 12:00:00 -0600
 
