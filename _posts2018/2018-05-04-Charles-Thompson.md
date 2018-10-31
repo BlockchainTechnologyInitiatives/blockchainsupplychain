@@ -1,6 +1,6 @@
 ---
 layout: person2018
-youtube: 
+youtube: https://www.youtube.com/watch?v=r3upez_owmA&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=9&t=14s
 otherlinks: 
 permalink: person2018/:title
 date: 2018-03-04 12:00:00 -0600
