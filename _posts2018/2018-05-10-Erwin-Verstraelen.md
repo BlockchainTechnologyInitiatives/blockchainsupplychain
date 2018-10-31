@@ -12,6 +12,7 @@ blurb: "Mr. Erwin Verstraelen is the Chief Digital and Information Officer of th
 categories: speakers
 image: "/res2018/people/Erwin-Verstraelen.png"
 ---
+Maritime Trade Panel: https://www.youtube.com/watch?v=r3upez_owmA&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=9&t=14s
 
 Mr. Erwin Verstraelen is the Chief Digital and Information Officer of the Port of Antwerp, Europe's 2nd largest seaport.
 
