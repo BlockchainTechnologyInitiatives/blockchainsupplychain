@@ -1,7 +1,7 @@
 ---
 layout: person2018
 youtube: 
-otherlinks: https://docsend.com/documents/735874
+otherlinks: https://xchain2.docsend.com/view/5sfp7ai
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
