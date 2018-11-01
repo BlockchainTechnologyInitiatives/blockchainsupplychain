@@ -8,7 +8,7 @@ name: "Mr. Andrew Parsons"
 position: "Chief Administrative Officer, Emergent Technologies"
 blurb: "Mr. Andrew Parsons is the Chief Administrative Officer of Emergent Technologies."
 categories: speakers
-image: "/res/people/Andrew-Parsons_Emergent-Technologies_2.jpeg"
+image: "/res/people/Andrew-Parsons_Emergent-Technologies_2.jpg"
 ---
 Andrew Parsons is Chief Administrative Officer for Emergent Technology. In his role he has broad responsibility for the company’s administrative functions, including accounting, treasury, human resources, legal, stakeholder relations, corporate governance, regulatory and other matters.
 
