@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: person/:title
-date: 2018-03-01 12:00:00 -0600
+date: 2018-01-28 12:55:00 -0600
 
 title:  "Paul Brigner"
 name: "Mr. Paul Brigner"
