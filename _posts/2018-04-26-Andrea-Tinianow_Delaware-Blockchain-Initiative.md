@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-01-30 12:55:00 -0600
 
 title:  "Andrea Tinianow"
-name: "Ms. Andrea Tinianow"
+name: "Ms. Andrea Tinianow*"
 position: "Andrea Tinianow, Chief Innovation Officer and Founding Director, Delaware Blockchain Initiative"
 blurb: "Ms. Andrea Tinianow is the Chief Innovation Officer and Founding Director at Delaware Blockchain Initiative"
 categories: speakers
