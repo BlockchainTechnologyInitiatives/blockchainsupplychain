@@ -8,7 +8,7 @@ name: "Dr. Tyler Smith*"
 position: "Founder, Prosapia at ConsenSys"
 blurb: "Dr. Tyler Smith is the Founder of Prosapia at ConsenSys."
 categories: speakers
-image: "/res/people/Tyler-Smith_Prosapia_Consensys.jpeg"
+image: "/res/people/Tyler-Smith_Prosapia_Consensys_v2.jpeg"
 ---
 Dr. R. Tyler Smith is a globally recognized expert in the application of blockchain technology. Prior to joining ConSensys he was the Head of Blockchain for the natural resource company BHP Billiton. While there he planned, built and put into production the world's first supply chain platform based on a blockchain for a major enterprise. Currently Tyler is the Founder of Prosapia. (More about Prosapia below). His previous role at Consensys was Director of Energy for ConsenSys, the global leader in blockchain focused software development. Tyler works with Oil and Gas companies to explore and develop blockchain solutions which are transformational to the business. These include applications across supply chain, corporate-wide security/identity, capital project risk management, new financial instruments and contract negotiation with automated execution.
 
