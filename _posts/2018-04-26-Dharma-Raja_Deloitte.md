@@ -8,5 +8,5 @@ name: "Mr. Dharma Raja*"
 position: "Dharma Raja, Global Business Transformation Executive, Deloitte"
 blurb: "Mr. Dharma Raja is a Global Business Transformation Executive at Deloitte"
 categories: speakers
-image: "/res/people/Dharma-Raja_Deloitte.jpeg"
+image: "/res/people/Dharma-Raja_Deloitte_v2.jpeg"
 ---
