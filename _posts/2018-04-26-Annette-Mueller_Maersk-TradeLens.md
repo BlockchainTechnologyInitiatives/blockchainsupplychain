@@ -8,5 +8,5 @@ name: "Ms. Annette Mueller*"
 position: "Annette Mueller, Senior Commercial Manager, North America, Maersk TradeLens"
 blurb: "Ms. Annette Mueller is the Senior Commercial Manager of North America at Maersk TradeLens"
 categories: speakers
-image: "/res/Annette-Mueller_Maersk-TradeLens.jpeg"
+image: "/res/people/Annette-Mueller_Maersk-TradeLens.jpeg"
 ---
