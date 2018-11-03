@@ -5,8 +5,8 @@ date: 2018-02-26 12:00:00 -0600
 
 title:  "Jim Lawnin"
 name: "Mr. Jim Lawnin*"
-position: "Managing Partner, BBL Ventures"
-blurb: "Jim Lawnin is a Managing Partner at BBL Ventures."
+position: "Managing Partner, BBL Ventures; Co-Founder, Energy Council Consortium"
+blurb: "Jim Lawnin is a Managing Partner at BBL Ventures and Co-Founder of the Energy Council Consortium."
 categories: speakers
 image: "/res/people/Jim-Lawnin_BBL-Ventures.jpeg"
 ---
