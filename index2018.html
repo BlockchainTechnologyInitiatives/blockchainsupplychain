@@ -18,10 +18,7 @@ layout: default2018
 
 <section class="container">
 	<div id="speakers" class="people-media-list">
-		<h1>Presentation Materials from XChain2 2018</h1>
-		<p class="notice">*Speakers & Panelists from May 2018 Conference</p>
-		<p class="notice">Interested in speaking at the next edition of XChain2? Contact us at speakers@blockchainsupplychain.io.</p>
-		
+		<h1>Speakers & Panelists from May 2018 Conference</h1>
 		<div class="row">
 			{% assign posts2018 = site.posts2018 | where: "categories", "speakers"	| sort: 'date' | reverse %}            
 			{% for post in posts2018 %}
