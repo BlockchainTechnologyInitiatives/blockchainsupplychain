@@ -14,8 +14,8 @@ Ms. Annette Mueller is the Senior Commercial Manager of North America at Maersk 
 
 On the morning of Day 2 at XChain2, December 4, Ms. Mueller will be discussing:
 
-Digitizing Global Trade - Moving More than Cargo
--Optimizing performance and improving customer-and-stakeholder relations in the international shipping industry
--Utilizing blockchain’s immutable proof to confidently digitalize the identity of assets, transactions and users
--Boosting global trade with a secure open data exchange platform
--Creating greater transparency to improve working relationships with shippers, partners and regulators 
+<p>Digitizing Global Trade - Moving More than Cargo</p>
+<p>  -Optimizing performance and improving customer-and-stakeholder relations in the international shipping industry</p>
+<p>  -Utilizing blockchain’s immutable proof to confidently digitalize the identity of assets, transactions and users</p>
+<p>  -Boosting global trade with a secure open data exchange platform</p>
+<p>  -Creating greater transparency to improve working relationships with shippers, partners and regulators</p>
