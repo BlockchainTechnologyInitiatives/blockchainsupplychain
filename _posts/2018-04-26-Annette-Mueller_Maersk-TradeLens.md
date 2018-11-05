@@ -13,7 +13,7 @@ image: "/res/people/Annette-Mueller_Maersk-TradeLens.jpeg"
 Ms. Annette Mueller is the Senior Commercial Manager of North America at Maersk TradeLens where she is responsible for building, educating, and engaging the TradeLens technical solutions with stakeholders and partners. TradeLens, a blockchain solution developed by Maersk and IBM that was operationally launched in August of 2018, is bringing to the Supply Chain industry the future generation of communication to enhance trade and eliminate paper burden processes. Ms. Mueller works with C-Level decision makers with Corporations, Ports/Terminals, US and Canadian Governments, and Supply Chain service providers. She also articipates as a speaker at trade and government conferences.
 
 <br>
-On the morning of Day 2 at XChain2, December 4, Ms. Mueller will be discussing:
+At XChain2, Ms. Mueller will be discussing:
 <br>
 <br>
 <p><b>Digitizing Global Trade - Moving More than Cargo</b></p>
