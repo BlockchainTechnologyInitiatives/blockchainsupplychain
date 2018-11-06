@@ -7,6 +7,6 @@ title:  "Roger Thompson"
 name: "Mr. Roger Thompson"
 position: "Project Manager, Phillips 66"
 blurb: "Mr. Roger Thompson is a Project Manager at Phillips 66."
-categories: speakers
+categories: 
 image: "/res/people/Roger-Thompson_Phillips-66.jpeg"
 ---
