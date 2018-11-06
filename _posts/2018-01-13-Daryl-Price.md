@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-24 12:00:00 -0600
 
 title:  "Daryl Price Jr"
-name: "Mr. Daryl Price Jr"
+name: "Mr. Daryl Price Jr*"
 position: "Senior Regional Client Executive at Unicom and former NFL Player"
 blurb: ""
 categories: speakers
