@@ -7,7 +7,7 @@ title:  "Blockchain Tech News"
 name: "Blockchain Tech News"
 position: "Media Partner"
 blurb: ""
-categories: 
+categories: sponsors-media
 image: "/res/people/Media-Blockchain-Tech-News.jpg"
 website: "https://www.blockchaintechnews.com/"
 ---
