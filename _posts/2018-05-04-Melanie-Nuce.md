@@ -7,7 +7,7 @@ title:  "Melanie Nuce"
 name: "Ms. Melanie Nuce*"
 position: "Senior Vice President, GS1"
 blurb: "Ms. Melanie Nuce is a Senior Vice President at GS1."
-categories: speakers
+categories: 
 image: "/res/people/Melanie-Nuce_SVP-Corporate-Development_GS1-US.jpeg"
 ---
 
