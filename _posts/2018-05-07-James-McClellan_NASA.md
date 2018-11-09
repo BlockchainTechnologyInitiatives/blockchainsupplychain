@@ -7,6 +7,6 @@ title:  "James McClellan"
 name: "Mr. James McClellan"
 position: "Technology Infusion Chief, NASA"
 blurb: "Mr. James McClellan is the Technology Infusion Chief at NASA."
-categories: speakers
+categories: 
 image: "/res/people/James-McClellan_NASA.jpeg"
 ---
