@@ -7,6 +7,6 @@ title:  "Paul Brigner"
 name: "Mr. Paul Brigner, J.D."
 position: "Director of Technology Policy, Chamber of Digital Commerce"
 blurb: "Mr. Paul Brigner is the Director of Technology Policy at the Chamber of Digital Commerce."
-categories: speakers
+categories: 
 image: "/res/people/Paul-Brigner.jpg"
 ---
