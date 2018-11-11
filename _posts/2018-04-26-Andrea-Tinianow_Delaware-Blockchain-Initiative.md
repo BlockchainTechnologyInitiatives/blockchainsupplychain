@@ -7,7 +7,7 @@ title:  "Andrea Tinianow"
 name: "Ms. Andrea Tinianow*"
 position: "Andrea Tinianow, Chief Innovation Officer and Founding Director, Delaware Blockchain Initiative"
 blurb: "Ms. Andrea Tinianow is the Chief Innovation Officer and Founding Director at Delaware Blockchain Initiative"
-categories: speakers
+categories: 
 image: "/res/people/Andrea-Tinianow_Delaware-Blockchain-Initiative.jpg"
 ---
 Andrea is the EVP, Chief Innovation Officer for Global Kompass Strategies, a US-based management consulting firm. Andrea advises organizations to develop breakthrough opportunities by deploying blockchain and other emerging technologies. She helps create new business models, revenue streams and innovative solutions. She creates strategic partnerships, identifying opportunities for organizational growth and driving change processes through to fruition.
