@@ -8,7 +8,7 @@ name: "Mr. Chris Gabriel*"
 position: "Founder, Hyperchain Labs"
 blurb: ""
 categories: speakers
-image: "/res/people/Chris-Gabriel_Hyperchain-Labs.jpg	"
+image: "/res/people/Chris-Gabriel_Hyperchain-Labs.jpeg	"
 ---
 
 Chris Gabriel founded Hyperchain Labs in early spring 2018 and deployed the
