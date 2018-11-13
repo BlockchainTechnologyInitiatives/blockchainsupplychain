@@ -8,7 +8,7 @@ name: "Mr. Kevin Otto*"
 position: "Senior Director of Foodservice Industry Development and Cross-Industry Blockchain Lead, GS1 US"
 blurb: ""
 categories: speakers
-image: "/res/people/Kevin-Otto_GS1.jpg"
+image: "/res/people/Kevin-Otto.jpg"
 ---
 Kevin Otto is currently the Senior Director, Industry Development, Foodservice at GS1 US. He is responsible for driving the adoption and voluntary usage of GS1 Standards and GS1 US offerings within the Foodservice channel, managing all business development initiatives and customer relationships. Kevin has been with GS1 US since September 2013.
 
