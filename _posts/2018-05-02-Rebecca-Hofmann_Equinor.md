@@ -7,6 +7,6 @@ title:  "Rebecca Hofmann"
 name: "Ms. Rebecca Hofmann*"
 position: "US Blockchain Strategy & Innovation, Equinor"
 blurb: "Ms. Rebecca Hofmann, US Blockchain Strategy & Innovation, Equinor."
-categories: speakers
+categories: 
 image: "/res/people/Rebecca-Hofmann_Equinor.jpeg"
 ---
