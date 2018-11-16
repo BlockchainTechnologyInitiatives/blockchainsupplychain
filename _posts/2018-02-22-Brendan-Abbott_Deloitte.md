@@ -5,7 +5,7 @@ date: 2018-01-26 12:50:00 -0600
 
 title:  "Brendan Abbott"
 name: "Mr. Brendan Abbott*"
-position: "Senior Consultant, Blockchain, Government and Public Services, Deloitte"
+position: "Senior Manager, Blockchain, Government and Public Services, Deloitte"
 blurb: ""
 categories: speakers
 image: "/res/people/Brendan-Abbott.jpg"
