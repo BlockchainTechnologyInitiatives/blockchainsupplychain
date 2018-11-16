@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: person/:title
-date: 2018-02-24 12:00:00 -0600
+date: 2018-01-26 12:50:00 -0600
 
 title:  "Brendan Abbott"
 name: "Mr. Brendan Abbott*"
