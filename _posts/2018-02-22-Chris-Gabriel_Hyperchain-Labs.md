@@ -45,3 +45,16 @@ acknowledgment of goods receipts at the purchaser for example.  Taken a step fur
 against a received invoice can also be automated in a smart contract.    
 
 https://www.hyperchainlabs.com/blockchain-101
+
+<br>
+At XChain2, Mr. Gabriel will discussing:
+<br>
+<br>
+<p><b>The Importance of Governance in a Permissioned Blockchain </b></p>
+
+<p>--Network Permissioned blockchain governance basics</p>
+<p>--Getting it right the first time</p>
+<p>--Governance for antitrust compliance</p> 
+<p>--Channels and Private Data Network Identity management: Can’t fake it, can’t break it</p>
+
+
