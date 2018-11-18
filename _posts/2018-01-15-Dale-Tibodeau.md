@@ -20,7 +20,7 @@ Prior to joining Bauer in August 2012, Tibodeau was a Clinical Assistant Profess
 Outside of his professional career in academia, Tibodeau is President, Chief Pilot and Chief Flight Instructor of Texas Air Adventures, a privately owned aviation services company founded in 2002.
 
 <br>
-At XChain2, Dr. Tibodeau will be a moderating a panel discussing:
+At XChain2, Dr. Tibodeau will be moderating a panel discussing:
 <br>
 <br>
 <p><b>Lessons Learned: Getting Started with Blockchain Today - Advice from Early Adopters</b></p>
