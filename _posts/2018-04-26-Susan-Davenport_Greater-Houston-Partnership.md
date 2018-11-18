@@ -19,7 +19,7 @@ Susan came to Gainesville in 2013 after spending 13 years with the Austin Chambe
 Susan received a Master of Public Affairs from The University of Texas at Austin and earned a Bachelor of Science degree in Nursing from The University of Texas Medical Branch. She is also a graduate of the Economic Development Institute at the University of Oklahoma and is an active member of the Association of Chamber of Commerce Executives and the International Economic Development Institute.
 
 <br>
-At XChain2, Ms. Davenport will discussing:
+At XChain2, Ms. Davenport will be discussing:
 <br>
 <br>
 <p><b>Advancing Houston’s Digital Tech Economy</b></p>
