@@ -17,3 +17,13 @@ Prior to her work in Houston, Susan served as the President/CEO of the Gainesvil
 Susan came to Gainesville in 2013 after spending 13 years with the Austin Chamber of Commerce, most recently as Senior Vice President of Global Tech Strategies. While there she served as a key team member for the Opportunity Austin strategy which created over 174,000 new jobs and enhanced regional payrolls by $8.7 billion over an 8-year period from 2004-2012. During her tenure in Austin she developed and executed Austin’s regional business retention and expansion program, Portfolio Austin, where over 4,800 regional retention visits were undertaken with 520 regional expansions tracked. She also developed and managed the Central Texas Regional Center for Innovation and Commercialization, which resulted in assisting 34 companies accessing $60 million in funding with an additional $30 million for local research and university projects. Susan also developed the Greater Austin Technology Partnership and Austin TechLive, which engaged over 100 regional technology executives in various economic development activities and supported entrepreneurism through a downtown co-working technology hub partner.
 
 Susan received a Master of Public Affairs from The University of Texas at Austin and earned a Bachelor of Science degree in Nursing from The University of Texas Medical Branch. She is also a graduate of the Economic Development Institute at the University of Oklahoma and is an active member of the Association of Chamber of Commerce Executives and the International Economic Development Institute.
+
+<br>
+At XChain2, Ms. Davenport will discussing:
+<br>
+<br>
+<p><b>Advancing Houston’s Digital Tech Economy</b></p>
+
+<p>--Introduction to the Greater Houston region</p>
+<p>--State of Houston’s digital tech economy</p>
+<p>--Digitization and transformation of Houston’s industries</p> 
