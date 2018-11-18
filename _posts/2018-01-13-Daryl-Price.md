@@ -15,3 +15,5 @@ Daryl is an accomplished technology business development executive with qualifie
 
 
 His other current positions include serving as the President for the U.S. Dept. of Justice, BATFE Citizen Alumni Association, where he also sits on the board of directors; Defensive Coordinator for the Tomball Christian Warriors Football program; and as the President Universal Detection Systems LLC.
+
+Daryl is returning to again be the Master of Ceremonies for XChain2.
