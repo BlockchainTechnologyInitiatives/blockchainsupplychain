@@ -20,7 +20,7 @@ Genealogy is ranked as the second most popular hobby in the United States. A gro
 At its core, Prosapia is a shared data layer which is maintained and audited by participants in the network. In addition, the network is designed to allow data providers selective disclosure to consumers with only the most basic of information available as default. The goal is to create a shared foundation on which the community can build additional data analytics and applications while not compromising the data ownership of the underlying custodians. We believe that this will usher in a new paradigm of growth and open data repositories otherwise impossible to access. It will also make it possible for much smaller organizations to contribute and make meaningful additions. In the end, the heritage of the human race is a shared treasure which should be owned by everyone, and finally can be through the innovation of the blockchain. See less
 
 <br>
-At XChain2, Dr. Smith will discussing:
+At XChain2, Dr. Smith will be discussing:
 <br>
 <br>
 <p><b>How to Realize Cost Savings by Introducing Track and Trace Systems on a Blockchain</b></p>
