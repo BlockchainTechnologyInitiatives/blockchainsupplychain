@@ -14,7 +14,7 @@ image: "/res/people/Brendan-Abbott.jpg"
 Brendan Abbott is a Senior Manager in Deloitte's Government and Public Services practice, focusing on strategy and implementation of blockchain technology solutions. He has worked extensively with government agencies to diagnose business problems that can be solved using blockchain. Brendan brings a broad perspective of the business and policy impacts of emerging technologies.
 
 <br>
-At XChain2, Mr. Abbott will discussing:
+At XChain2, Mr. Abbott will be discussing:
 <br>
 <br>
 <p><b>Customizing Blockchains: Permissioned vs Permissionless</b></p>
