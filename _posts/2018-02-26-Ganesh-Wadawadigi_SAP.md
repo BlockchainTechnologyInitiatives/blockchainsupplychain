@@ -17,7 +17,7 @@ Prior to SAP, Ganesh was the Director of Corporate Development at Sterling Comme
 Ganesh earned his M.S. and Ph.D. in Aerospace Engineering from Iowa State University while interning at NASA Ames Research Center, California, and his B.Tech. from the Indian Institute of Technology (IIT).
 
 <br>
-At XChain2, Dr. Wadawadigi will discussing:
+At XChain2, Dr. Wadawadigi will be discussing:
 <br>
 <br>
 <p><b>Enabling Better Food Safety for Conscious Consumption</b></p>
