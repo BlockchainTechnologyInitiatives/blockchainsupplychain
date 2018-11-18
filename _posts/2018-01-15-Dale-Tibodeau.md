@@ -18,3 +18,14 @@ Tibodeau has over three decades of experience in a number of engineering and ope
 Prior to joining Bauer in August 2012, Tibodeau was a Clinical Assistant Professor at Texas A&M University's Mays Business School (2010-2011) and Director of Industry Relations for the Industrial and Systems Engineering Department (2011-2012). He has also served as an industry mentor for graduating students an industry college recruiter and as an Invention to Product (I2P) panel judge for developing college technology entrepreneurs. Tibodeau was honored to serve as a guest lecturer and a featured speaker at various Texas A&M University venues (2006-2010) at University of Florida (1990) and at numerous safety seminars (2000-present).
 
 Outside of his professional career in academia, Tibodeau is President, Chief Pilot and Chief Flight Instructor of Texas Air Adventures, a privately owned aviation services company founded in 2002.
+
+<br>
+At XChain2, Dr. Tibodeau will be a moderating a panel discussing:
+<br>
+<br>
+<p><b>Lessons Learned: Getting Started with Blockchain Today - Advice from Early Adopters</b></p>
+
+<p>--Weighing the tangible and intangible costs and benefits of blockchain investment</p>
+<p>--Deciding whether to create a blockchain or join an existing one</p>
+<p>--Building a business case for internal and external stakeholder buy-in</p> 
+<p>--Developing strategies to address roadblocks as they arise during the planning process</p>
