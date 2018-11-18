@@ -23,7 +23,7 @@ Mr. Bruce earned a bachelor’s of science degree in Computer Science from [Worc
 At XChain2, Mr. Bruce will be co-presenting with Data Gumbo partner, Diamond Offshore Drilling, and discussing:
 <br>
 <br>
-<p><b>he Absence of Invoices in an Oil & Gas Drilling Business Network</b></p>
+<p><b>The Absence of Invoices in an Oil & Gas Drilling Business Network</b></p>
 
 <p>--Managing customers and suppliers information when collaborating and working with the exactly the same information</p>
 <p>--The advantages of having a network anchored on a blockchain with all parties on an identical digital ledger</p>
