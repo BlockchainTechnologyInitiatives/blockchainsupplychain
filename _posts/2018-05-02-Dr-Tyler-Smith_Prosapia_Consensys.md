@@ -18,3 +18,15 @@ About Prosapia:
 Genealogy is ranked as the second most popular hobby in the United States. A growing trend of people becoming interested in their family history has fueled the industry both in terms of capital investment and data acquisition. However, the current infrastructure is prone to data silos which are counterproductive to the continued development of the space. A new technology, called the blockchain, provides the tools to allow for collaboration without sacrificing the autonomy of data custodians. Prosapia proposes a shared industry protocol and standard for how deceased individuals are identified and registered on the blockchain. This will provide the foundation for sharing databases which otherwise will remain restricted and disconnected from general consumption.
 
 At its core, Prosapia is a shared data layer which is maintained and audited by participants in the network. In addition, the network is designed to allow data providers selective disclosure to consumers with only the most basic of information available as default. The goal is to create a shared foundation on which the community can build additional data analytics and applications while not compromising the data ownership of the underlying custodians. We believe that this will usher in a new paradigm of growth and open data repositories otherwise impossible to access. It will also make it possible for much smaller organizations to contribute and make meaningful additions. In the end, the heritage of the human race is a shared treasure which should be owned by everyone, and finally can be through the innovation of the blockchain. See less
+
+<br>
+At XChain2, Dr. Smith will discussing:
+<br>
+<br>
+<p><b>How to Realize Cost Savings by Introducing Track and Trace Systems on a Blockchain</b></p>
+
+<p>--Adopting digital tools to facilitate improved communication, meet reporting requirements and minimize paperwork</p>
+<p>--Changing business by introducing accurate track and trace systems and enabling streamlined communication across the value chain</p>
+<p>--Implementing distributed-ledger in the product serialization process for better product authentication</p> 
+
+
