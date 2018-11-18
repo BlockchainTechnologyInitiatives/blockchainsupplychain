@@ -47,7 +47,7 @@ against a received invoice can also be automated in a smart contract.
 https://www.hyperchainlabs.com/blockchain-101
 
 <br>
-At XChain2, Mr. Gabriel will discussing:
+At XChain2, Mr. Gabriel will be discussing:
 <br>
 <br>
 <p><b>The Importance of Governance in a Permissioned Blockchain </b></p>
