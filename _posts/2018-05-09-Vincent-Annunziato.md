@@ -16,7 +16,7 @@ Ten plus years experience in managing large successful government IT projects. S
 Specialties: Leading multiple agile teams and developing strategic business vision with large scale IT projects. Coordinating large scale projects and bringing them in on time and on budget. Public speaking.
 
 <br>
-At XChain2, Mr. Annunziato will discussing:
+At XChain2, Mr. Annunziato will be discussing:
 <br>
 <br>
 <p><b>Customs Border and Protection: Optimizing American Free Trade with Blockchain</b></p>
