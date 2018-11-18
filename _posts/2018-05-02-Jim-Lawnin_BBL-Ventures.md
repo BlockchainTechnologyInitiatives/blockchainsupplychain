@@ -19,3 +19,13 @@ Jim is an active angel investor and board member of Houston Angel Network (HAN),
 He is a co-founder of the Energy Blockchain Consortium, a nonprofit organization focused on developing industry standards and use cases. He is the consortium’s Chief Innovation Officer & GM for Oil & Gas. 
 
 Jim has a BS in Petroleum Engineering, MBA and Accounting degrees. He has held the following designations: Certified Public Accountant (CPA), Chartered Financial Analyst (CFA), and Licensed Professional Engineer (PE).
+
+<br>
+At XChain2, Mr. Lawnin will a panelist discussing:
+<br>
+<br>
+<p><b>End-to-End Supply Chain in Oil & Gas Drilling Operations </b></p>
+
+<p>--How Blockchain will improve operations efficiency of O&G upstream supply chain</p>
+<p>--What are the challenges and benefits for automated Blockchain-enabled O&G drilling operations</p>
+<p>--How companies can position with Blockchain in upstream O&G</p> 
