@@ -21,7 +21,7 @@ He is a co-founder of the Energy Blockchain Consortium, a nonprofit organization
 Jim has a BS in Petroleum Engineering, MBA and Accounting degrees. He has held the following designations: Certified Public Accountant (CPA), Chartered Financial Analyst (CFA), and Licensed Professional Engineer (PE).
 
 <br>
-At XChain2, Mr. Lawnin will a panelist discussing:
+At XChain2, Mr. Lawnin will be a panelist discussing:
 <br>
 <br>
 <p><b>End-to-End Supply Chain in Oil & Gas Drilling Operations </b></p>
