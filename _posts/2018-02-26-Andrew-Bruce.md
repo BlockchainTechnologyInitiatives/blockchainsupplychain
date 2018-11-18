@@ -20,7 +20,7 @@ Mr. Bruce was founder of the NOVOS project at NOV. Mr Bruce holds a patent joint
 Mr. Bruce earned a bachelor’s of science degree in Computer Science from [Worcester Polytechnic Institute](https://www.wpi.edu/). He is a member of IADC and SPE.
 
 <br>
-At XChain2, Mr. Bruce will be co-presenting with Data Gumbo's partner, Diamond Offshore Drilling, and discussing:
+At XChain2, Mr. Bruce will be co-presenting with Data Gumbo partner, Diamond Offshore Drilling, and discussing:
 <br>
 <br>
 <p><b>he Absence of Invoices in an Oil & Gas Drilling Business Network</b></p>
