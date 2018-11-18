@@ -4,9 +4,21 @@ permalink: person/:title
 date: 2018-01-29 12:55:00 -0600
 
 title:  "Rajat Rajbhandari"
-name: "Mr. Rajat Rajbhandari*"
+name: "Dr. Rajat Rajbhandari*"
 position: "Chief Executive Officer and Co-founder, dexFreight"
-blurb: "Mr. Rajat Rajbhandari is the Chief Executive Officer Co-founder of dexFreight."
+blurb: "Dr. Rajat Rajbhandari is the Chief Executive Officer Co-founder of dexFreight."
 categories: speakers
 image: "/res/people/Rajat-Rajbhandari_dexFreight.jpeg"
 ---
+Dr. Rajbhandari is an expert in transportation, operations, and technology research and earned his Ph. D in Transportation in 2005.
+
+<br>
+At XChain2, Dr. Rajbhandari will be a panelist discussing:
+<br>
+<br>
+<p><b>Understanding the Value and Advantages of Utilizing Smart Contracts Over Existing Methods</b></p>
+
+<p>--What does it mean to digitalize the contract process in regards to real-time delivery and exchange of custodies?</p>
+<p>--Enabling transactional trust between parties through the use of an immutable ledger</p>
+<p>--Understanding the implications of amending or voiding smart contracts</p> 
+<p>--Considering legal jurisdictions, enforceability issues, and preparing for future regulations</p>
