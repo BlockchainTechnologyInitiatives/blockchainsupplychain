@@ -13,7 +13,7 @@ image: "/res/people/Srini-Srinivasan_eShipGlobal.jpeg"
 Srini Vasan is founder and CEO of eShipGlobal the Supply Chain compliance solution company to offer a one-stop integrated solution for shipping both standard parcel and regulated hazardous/Research materials via any U.S. carrier to virtually any destination worldwide. As president and CEO, Mr. Vasan is responsible for the overall direction of the company, overseeing product conceptualization, Innovation, development and commercialization of products. Prior to eShipGlobal, Mr. Vasan was a software engineer, systems architect and project manager for big four consulting companies. He holds an MBA from Southern Methodist University.
 
 <br>
-At XChain2, Mr. Srinivasan will discussing:
+At XChain2, Mr. Srinivasan will be discussing:
 <br>
 <br>
 <p><b>Planning and Executing a Proof-of-Concept</b></p>
