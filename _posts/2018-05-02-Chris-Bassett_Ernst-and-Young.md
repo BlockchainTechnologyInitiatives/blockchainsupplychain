@@ -13,7 +13,7 @@ image: "/res/people/Chris-Bassett_HighRes_Ernst-and-Young_EY.jpg"
 Chris Bassett is a Senior Manager within EY’s Global Insurance practice. He has 10 years’ experience in both Industry and Consulting and specializes in strategy design and development and emerging technologies.
 
 <br>
-At XChain2, Mr. Abbott will be discussing:
+At XChain2, Mr. Bassett will be discussing:
 <br>
 <br>
 <p><b>The First Blockchain for Marine Insurance</b></p>
