@@ -15,3 +15,13 @@ Ganesh Wadawadigi has more than two decades of experience in the areas of Supply
 Prior to SAP, Ganesh was the Director of Corporate Development at Sterling Commerce (now IBM) where his focus areas were RFID and B2B supply chain collaboration. Ganesh started his career in Supply Chain Management at i2 Technologies (now JDA) where he held several leadership roles in Consulting, High-Tech Industry Solution Management, Product Marketing, and Product Strategy. While at i2, Ganesh was granted patents by USPTO and played a pivotal role in launching several flagship supply chain solutions.
 
 Ganesh earned his M.S. and Ph.D. in Aerospace Engineering from Iowa State University while interning at NASA Ames Research Center, California, and his B.Tech. from the Indian Institute of Technology (IIT).
+
+<br>
+At XChain2, Dr. Wadawadigi will discussing:
+<br>
+<br>
+<p><b>Enabling Better Food Safety for Conscious Consumption</b></p>
+
+<p>--Developing agile systems to identify, isolate and address quality control issues due to changes in agriculture practices, food production and the environment</p>
+<p>--Designing sustainable, transparent food systems for consumers to know where their food comes from, the companies behind it, and the farmers who grow it</p>
+<p>--Detailing the impact of ever greater levels of knowledge-sharing that foster increased collaboration within the food industry</p> 
