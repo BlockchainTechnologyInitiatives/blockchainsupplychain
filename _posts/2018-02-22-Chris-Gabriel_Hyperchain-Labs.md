@@ -57,4 +57,20 @@ At XChain2, Mr. Gabriel will discussing:
 <p>--Governance for antitrust compliance</p> 
 <p>--Channels and Private Data Network Identity management: Can’t fake it, can’t break it</p>
 
+<br>
+Mr. Gabriel will also be a panelist discussing:
+<br>
+<br>
+<p><b>Understanding the Value and Advantages of Utilizing Smart Contracts Over Existing Methods</b></p>
+
+<p>--What does it mean to digitalize the contract process in regards to real-time delivery and exchange of custodies?</p>
+<p>--Enabling transactional trust between parties through the use of an immutable ledger</p>
+<p>--Understanding the implications of amending or voiding smart contracts</p> 
+<p>--Considering legal jurisdictions, enforceability issues, and preparing for future regulations</p>
+
+
+
+
+
+
 
