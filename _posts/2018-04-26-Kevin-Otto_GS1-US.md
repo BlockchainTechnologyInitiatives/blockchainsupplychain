@@ -17,7 +17,7 @@ Prior to joining GS1 US, Kevin worked in various supply chain roles for large CP
 Kevin received his Master of Business Administration from the University of Arkansas and received his Bachelor of Science in Business Logistics from Penn State.
 
 <br>
-At XChain2, Mr. Abbott will discussing:
+At XChain2, Mr. Otto will be discussing:
 <br>
 <br>
 <p><b>Making the Case for Interoperability and Developing Blockchain-Based Industry Standards</b></p>
