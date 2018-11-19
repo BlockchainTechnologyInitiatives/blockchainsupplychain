@@ -24,8 +24,9 @@ Jim has a BS in Petroleum Engineering, MBA and Accounting degrees. He has held t
 At XChain2, Mr. Lawnin will be a panelist discussing:
 <br>
 <br>
-<p><b>End-to-End Supply Chain in Oil & Gas Drilling Operations </b></p>
+<p><b>Strength in Numbers - Benefits of a Consortium</b></p>
 
-<p>--How Blockchain will improve operations efficiency of O&G upstream supply chain</p>
-<p>--What are the challenges and benefits for automated Blockchain-enabled O&G drilling operations</p>
-<p>--How companies can position with Blockchain in upstream O&G</p> 
+<p>--Learning from existing consortia, their current status, accomplishments, and future plans</p>
+<p>--Weighing the benefits of joining a business-focused vs. technology-focused consortium</p>
+<p>--Exploring the technological and financial benefits of participating in different consortia</p>
+<p>--Benefiting from consortium networks and accessing the full potential of the blockchain</p>
