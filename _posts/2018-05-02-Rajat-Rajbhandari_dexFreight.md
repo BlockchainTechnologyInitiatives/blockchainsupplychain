@@ -22,3 +22,20 @@ At XChain2, Dr. Rajbhandari will be a panelist discussing:
 <p>--Enabling transactional trust between parties through the use of an immutable ledger</p>
 <p>--Understanding the implications of amending or voiding smart contracts</p> 
 <p>--Considering legal jurisdictions, enforceability issues, and preparing for future regulations</p>
+
+<br>
+Dr. Rajbhandari will also be discussing:
+<br>
+<br>
+<p><b>Implementing Blockchain in the Port of Veracruz, Mexico’s Third Busiest Sea Port</b></p>
+
+<p>--Analyzing value propositions and exploring where and how blockchain technology fits into a port operational environment</p>
+<p>--Strategically minimizing risks and over expectations in developing a proof of concept</p>
+<p>--Outlining and identifying the challenges and opportunities of implementing blockchain for container exports</p> 
+
+
+
+
+
+
+
