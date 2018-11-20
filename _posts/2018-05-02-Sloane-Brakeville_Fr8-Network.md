@@ -10,7 +10,7 @@ blurb: ""
 categories: speakers
 image: "/res/people/Sloane-Brakeville_Fr8-Network.jpg"
 ---
-Sloane Brakeville is the Co-fouder and CEO of Fr8 Network. Previously he was a Blockchain Specialist at IBM’s Blockchain Labs. He’s been involved with Blockchain technology and cryptocurrencies since 2013. While at IBM’s Blockchain Labs, Sloane was responsible for the success of projects in the Finance, Media and Entertainment, Supply Chain, and Healthcare industry verticals. Before joining the IBM Blockchain Labs, Sloane was building apps for iPhones and iPads. He originally joined IBM as a consultant for Salesforce CRM development.
+Sloane Brakeville is the Co-founder and CEO of Fr8 Network. Previously he was a Blockchain Specialist at IBM’s Blockchain Labs. He’s been involved with Blockchain technology and cryptocurrencies since 2013. While at IBM’s Blockchain Labs, Sloane was responsible for the success of projects in the Finance, Media and Entertainment, Supply Chain, and Healthcare industry verticals. Before joining the IBM Blockchain Labs, Sloane was building apps for iPhones and iPads. He originally joined IBM as a consultant for Salesforce CRM development.
 
 <br>
 At XChain2, Mr. Brakeville will be discussing:
