@@ -7,7 +7,7 @@ title:  "Sherry Stein"
 name: "Ms. Sherry Stein*"
 position: "Senior Manager of Projects and Innovation, SITA Lab"
 blurb: "Ms. Sherry Stein is the Senior Manager of Projects and Innovation at SITA Lab"
-categories: speakers
+categories: 
 image: "/res/people/Sherry-Stein_SITA-Lab.jpeg"
 ---
 Sherry Stein has over 20 years in travel technology experience, with a passion for business transformation and technology innovation. In 2015, Ms Stein joined SITA Lab where she leads the identity management program. It is focused on strategic research on behalf of SITA’s 450+ ATI members, to create a secure, frictionless travel experience through the applied use of emerging technologies and co-innovation with key industry stakeholders.
