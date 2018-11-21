@@ -7,7 +7,7 @@ title:  "Shipping and Freight Resource"
 name: "Shipping and Freight Resource"
 position: "Media Partner"
 blurb:
-categories:
+categories: sponsors-media
 image: "/res/people/Shipping-and-Freight-Resource_Logo.jpg"
 website: "https://shippingandfreightresource.com/"
 ---
