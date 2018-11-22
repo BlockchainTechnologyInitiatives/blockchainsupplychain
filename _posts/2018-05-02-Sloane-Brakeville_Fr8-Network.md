@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-01-25 12:50:00 -0600
 
 title:  "Sloane Brakeville"
-name: "Mr. Sloane Brakeville"
+name: "Mr. Sloane Brakeville*"
 position: "Chief Executive Officer and Co-Founder, Fr8 Network"
 blurb: ""
 categories: speakers
