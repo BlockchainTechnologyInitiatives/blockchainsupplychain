@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-25 12:00:00 -0600
 
 title:  "Louden Owen"
-name: "Mr. Louden Owen"
+name: "Mr. Louden Owen*"
 position: "Chair and Chief Executive Officer, DLT Labs"
 blurb: ""
 categories: speakers
