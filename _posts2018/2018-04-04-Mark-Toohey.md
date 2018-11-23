@@ -1,7 +1,7 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=1BpMKLYBm1E&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=23&t=0s
-otherlinks: https://blockchainsupplychain/Presentations_May-2018/Day-2/17_TTBSx3_Mark-Toohey_XChain2_May-2018_Houston.TX_Assessing-Realities-v2.1.pdf
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-2/17_TTBSx3_Mark-Toohey_XChain2_May-2018_Houston.TX_Assessing-Realities-v2.1.pdf
       
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
