@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=G0c8OYhv99A&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=22&t=1s
-otherlinks: https://xchain2.docsend.com/view/cvwedjg
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-2/16_DLA Piper_Deanna-Reitman_XChain2_May-2018_Houston.TX-Energy-Blockchain-in-Energy-Commodity-Transaction-Lifecycle.pdf
+      
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
