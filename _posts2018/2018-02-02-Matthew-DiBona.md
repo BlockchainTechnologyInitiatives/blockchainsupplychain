@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=A6XWsd3tjiA&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=18&t=0s
-otherlinks: https://xchain2.docsend.com/view/9ks3wk2
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-1/12_Smartbridge_Matthew-DiBona_XChain2_May-2018_Houston.TX_Blockchain-in-Food-Service-lite.pdf
+      
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
