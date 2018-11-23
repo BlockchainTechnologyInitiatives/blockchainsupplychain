@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: 
-otherlinks: https://xchain2.docsend.com/view/5sfp7ai
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-2/18_Consensys-Energy_Tetyana-Colosivsch_XChain2_May-2018_Houston.TX.pdf
+      
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
