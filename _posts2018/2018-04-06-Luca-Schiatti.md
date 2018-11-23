@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=jdlQyLDMIIU&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=21&t=4s
-otherlinks: https://xchain2.docsend.com/view/4nifsbe
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-2/15_Accenture Labs_ Luca-Schiatti_XChain2_May-2018_Houston.TX.pdf
+      
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
