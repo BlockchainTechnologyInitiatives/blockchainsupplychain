@@ -7,7 +7,7 @@ title:  "Dan Harpel"
 name: "Mr. Dan Harpel"
 position: "Chief Executive Officer, Context Labs"
 blurb: "Mr. Dan Harpel is the Chief Executive Officer of Context Labs"
-categories: speakers
+categories:
 image: "/res/people/Dan-Harpel_Context-Labs.jpeg"
 ---
 <br>
