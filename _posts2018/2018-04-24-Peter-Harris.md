@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=ZpJN8xs2nAI&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=16&t=0s
-otherlinks: https://xchain2.docsend.com/view/ag7nw6a
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-1/10_Chain-Business-Insights_Peter-Harris_XChain2_May-2018_Houston.TX_Food-Blockchain-in-Supply-Chain.pdf
+      
 permalink: person2018/:title
 date: 2018-03-04 12:00:00 -0600
 
