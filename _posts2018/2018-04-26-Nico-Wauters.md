@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=8ZCR9LbIZ0M&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=5&t=0s
-otherlinks: https://xchain2.docsend.com/view/e87uic5
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-1/02_T-mining_Nico-Wauters_XChain2_May-2018_Houston.TX.pdf
+      
 permalink: person2018/:title
 date: 2018-03-04 12:00:00 -0600
 
