@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=2TcmykoYdqg&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=20&t=0s
-otherlinks: https://xchain2.docsend.com/view/i458y66
+otherlinks: https://blockchainsupplychain/Presentations_May-2018/Day-2/14_U.S.-Customs-and-Border-Protection-Office-of-Trade-Transformation_Vincent-Annunziato_XChain2_May-2018_Houston.TX.pdf
+      
 permalink: person2018/:title
 date: 2018-03-04 12:00:00 -0600
 
