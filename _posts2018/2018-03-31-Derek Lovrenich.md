@@ -1,7 +1,8 @@
 ---
 layout: person2018
 youtube: https://www.youtube.com/watch?v=h-94t408q4s&list=PL0D_unzx1KXhvrIzPl1j0mrihgq44nGOh&index=13&t=0s
-otherlinks: https://xchain2.docsend.com/view/em9a6x6
+otherlinks: https://blockchainsupplychain.io/Presentations_May-2018/Day-1/08_InsurEco_Derek-Lovrenich_XChain2_May-2018_Houston.TX.pdf
+      
 permalink: person2018/:title
 date: 2018-02-24 12:00:00 -0600
 
