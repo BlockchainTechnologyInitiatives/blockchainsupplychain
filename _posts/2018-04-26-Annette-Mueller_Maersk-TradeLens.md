@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-05-05 01:11:00 -0600
 
 title:  "Annette Mueller"
-name: "Ms. Annette Mueller*"
+name: "Ms. Annette Mueller"
 position: "TradeLens North America Senior Commercial Manager, Maersk GTD Inc."
 blurb: "Ms. Annette Mueller is the TradeLens North America Senior Commercial Manager at Maersk GTD Inc."
 categories: speakers
