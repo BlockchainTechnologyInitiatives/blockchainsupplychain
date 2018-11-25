@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-01-26 12:55:00 -0600
 
 title:  "Chris Gabriel"
-name: "Mr. Chris Gabriel*"
+name: "Mr. Chris Gabriel"
 position: "Founder, Hyperchain Labs"
 blurb: ""
 categories: speakers
