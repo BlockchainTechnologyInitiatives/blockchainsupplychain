@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-26 12:00:00 -0600
 
 title:  "Jim Lawnin"
-name: "Mr. Jim Lawnin*"
+name: "Mr. Jim Lawnin"
 position: "Managing Partner, BBL Ventures; Co-Founder, Energy Blockchain Consortium"
 blurb: ""
 categories: speakers
