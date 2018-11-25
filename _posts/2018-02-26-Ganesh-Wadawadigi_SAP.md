@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-24 12:00:00 -0600
 
 title:  "Ganesh Wadawadigi"
-name: "Dr. Ganesh Wadawadigi*"
+name: "Dr. Ganesh Wadawadigi"
 position: "Chief Solution Expert, Blockchain for Supply Chain, SAP"
 blurb: ""
 categories: speakers
