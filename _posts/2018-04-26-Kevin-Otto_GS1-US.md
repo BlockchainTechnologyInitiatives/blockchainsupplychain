@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-01 12:55:00 -0600
 
 title:  "Kevin Otto"
-name: "Mr. Kevin Otto*"
+name: "Mr. Kevin Otto"
 position: "Senior Director of Foodservice Industry Development and Cross-Industry Blockchain Lead, GS1 US"
 blurb: ""
 categories: speakers
