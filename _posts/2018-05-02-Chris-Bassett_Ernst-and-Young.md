@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-23 12:00:00 -0600
 
 title:  "Chris Bassett"
-name: "Mr. Chris Bassett*"
+name: "Mr. Chris Bassett"
 position: "Senior Manager, Global Insurance Advisory, EY"
 blurb: "Mr. Chris Bassett is a Senior Manager of Global Insurance Advisory at EY."
 categories: speakers
