@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-01-29 12:55:00 -0600
 
 title:  "Rajat Rajbhandari"
-name: "Dr. Rajat Rajbhandari*"
+name: "Dr. Rajat Rajbhandari"
 position: "Chief Executive Officer and Co-founder, dexFreight"
 blurb: "Dr. Rajat Rajbhandari is the Chief Executive Officer Co-founder of dexFreight."
 categories: speakers
