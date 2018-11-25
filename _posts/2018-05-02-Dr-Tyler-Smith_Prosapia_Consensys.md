@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-02-25 12:00:00 -0600
 
 title:  "Tyler Smith"
-name: "Dr. Tyler Smith*"
+name: "Dr. Tyler Smith"
 position: "Founder, Prosapia at ConsenSys"
 blurb: "Dr. Tyler Smith is the Founder of Prosapia at ConsenSys."
 categories: speakers
