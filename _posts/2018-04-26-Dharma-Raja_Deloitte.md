@@ -4,7 +4,7 @@ permalink: person/:title
 date: 2018-01-31 12:55:00 -0600
 
 title:  "Dharma Rajah"
-name: "Mr. Dharma Rajah*"
+name: "Mr. Dharma Rajah"
 position: "Global Business Transformation Executive, Deloitte"
 blurb: "Mr. Dharma Rajah is a Global Business Transformation Executive at Deloitte"
 categories: speakers
