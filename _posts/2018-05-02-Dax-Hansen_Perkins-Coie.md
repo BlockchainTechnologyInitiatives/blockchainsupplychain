@@ -7,7 +7,7 @@ title:  "Dax Hansen"
 name: "Mr. Dax Hansen"
 position: "Partner, Perkins Coie"
 blurb: "Mr. Dax Hansen is a Partner Perkins Coie."
-categories: speakers
+categories: 
 image: "/res/people/Dax-Hansen_Perkins-Coie.jpeg"
 ---
 J. Dax Hansen focuses his practice on IT, payments and international business transactions, including mobile financial services and m-commerce, online business, software and technology licensing, blockchains and decentralized virtual currencies and Japan business transactions. Dax serves as chair of the firm's Electronic Financial Services and Blockchain Technology & Digital Currency Industry groups. He works with wireless carriers, online and physical retailers, payment service providers, social networking companies, online service providers, software application developers, hardware manufacturers and other clients.
