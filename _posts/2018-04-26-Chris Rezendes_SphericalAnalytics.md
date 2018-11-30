@@ -7,7 +7,7 @@ title:  "Chris Rezendes"
 name: "Mr. Chris Rezendes"
 position: "Chief Business Officer, Spherical Analytics; Executive Staff, Context Labs"
 blurb: "Mr. Chris Rezendes is the Chief Business Officer of Spherical Analytics"
-categories: speakers
+categories: 
 image: "/res/people/Chris-Rezendes_Spherical-Analytics_Context-Labs.jpeg"
 ---
 Focusing on the next era of everything where physical meets digital, profit meets sustainability and the future meets trust. 
