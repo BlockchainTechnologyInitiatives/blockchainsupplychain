@@ -30,7 +30,7 @@ At XChain2, Mr. Annunziato will be discussing:
 Mr. Annunziato will also be a panelist discussing:
 <br>
 <br>
-<p><b>Lessons Learned: Getting Started with Blockchain Today - Advice from Early Adopters</b></p>
+<p><b>Lessons Learned: Getting Started with Blockchain Today - Advice for Early Adopters</b></p>
 
 <p>--Weighing the tangible and intangible costs and benefits of blockchain investment</p>
 <p>--Deciding whether to create a blockchain or join an existing one</p>
