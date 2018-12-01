@@ -31,3 +31,14 @@ Most of the major chemical companies have started to realize some of this value 
 Innovation has always been important to chemical companies, and that remains true during this period of disruption and digital transformation. It has been the case that some companies consider innovation as a “separate” function that sits outside of core operations. However, for digital transformation to be successful, a commitment to innovation and its quick adoption and scaling within the company must remain front and center.
 
 In fact, integrated operations—that is, the combination of manufacturing, finance, supply chain, IT and other functions—are key to the adoption of an “intelligent” business model that helps companies take advantage of new growth opportunities and maximize profitability. The chemical industry is moving in this direction, which makes for exciting times!
+
+<br>
+At XChain2, Mr. Burns will be discussing:
+<br>
+<br>
+<p><b>Starting the Future Today: Supply Chain and Blockchain Overview</b></p>
+
+<p>--Taking a look into today’s blockchain landscape and its impact on the supply chain industry: Who’s adopting right now and what is the projected return on investment?</p>
+<p>--What potential regulations are on the horizon?</p>
+<p>--Understanding the true potential of converging emerging technologies and its effect on the supply chain as we know it</p> 
+<p>Preparing your logistics business to take advantage of blockchain solutions to build improved and robust supply chains to meet future needs</p>
