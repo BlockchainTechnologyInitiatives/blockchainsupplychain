@@ -164,6 +164,23 @@ layout: default
 		{% endfor %}
 		</div>
 		
+		<h2>Reception Sponsor</h2>
+		<div class="row">
+		{% for post in site.categories.sponsors-gold %}
+			<div class="card col-lg-3 col-md-3 col-sm-4 col-xs-6 col-xxs-12">
+				<a href="{{ post.url }}">
+					<img src="{{ post.image }}" alt="">
+				</a>
+				<div class="caption">
+					<a href="{{ post.url }}">
+						<h4>{{ post.name }}</h4>
+					</a>
+					<p></p>
+				</div>
+			</div>
+		{% endfor %}
+		</div>
+
 		<h2>Media Partners</h2>
 		<div class="row">
 		{% for post in site.categories.sponsors-media %}
