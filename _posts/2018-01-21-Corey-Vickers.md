@@ -7,7 +7,7 @@ title:  "Corey Vickers"
 name: "Mr. Corey Vickers"
 position: "Global Logistics Category Group Manager, Chevron"
 blurb: ""
-categories: speakers
+categories: 
 image: "/res/people/Corey-Vickers.jpg"
 ---
 
