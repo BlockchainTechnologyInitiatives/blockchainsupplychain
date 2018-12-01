@@ -8,7 +8,7 @@ name: "Data Gumbo"
 position: "Sponsor"
 blurb: ""
 categories: sponsors-reception
-image: "/res/people/Data-Gumbo_260x260px.jpeg"
+image: "/res/people/DataGumbo_3.jpg"
 website: "www.datagumbo.com"
 ---
 For companies that drill for oil and gas, Data Gumbo provides blockchain smart contracts. Customers can use these smart contracts to secure the 10's - 100's of millions in savings available from improvements in rig and supplier efficiency.
