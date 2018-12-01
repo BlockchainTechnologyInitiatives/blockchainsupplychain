@@ -33,7 +33,7 @@ Innovation has always been important to chemical companies, and that remains tru
 In fact, integrated operations—that is, the combination of manufacturing, finance, supply chain, IT and other functions—are key to the adoption of an “intelligent” business model that helps companies take advantage of new growth opportunities and maximize profitability. The chemical industry is moving in this direction, which makes for exciting times!
 
 <br>
-At XChain2, Mr. Burns will be discussing:
+At XChain2, Mr. Wadivkar will be discussing:
 <br>
 <br>
 <p><b>Starting the Future Today: Supply Chain and Blockchain Overview</b></p>
