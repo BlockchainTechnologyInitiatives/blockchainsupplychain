@@ -16,4 +16,4 @@ We are a team of people dedicated to serving our global community by provisionin
 
 We support cross cultural exchange by empowering international student recruitment efforts made on behalf of U.S. Universities. We contribute to research laboratory compliance efficiencies in an effort to support the types of work that can substantially improve the lives of so many. We enable small businesses to extend their product offerings beyond their borders and make it possible for these organizations to connect with people previously deemed unreachable.
 
-eShip Global connects people with the materials that they need, want, and know to be essential.
+We at eShip Global connect people with the materials that they need, want, and know to be essential.
