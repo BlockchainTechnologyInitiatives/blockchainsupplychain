@@ -11,7 +11,9 @@ categories: sponsors-reception
 image: "/res/people/DataGumbo3.jpg"
 website: "www.datagumbo.com"
 ---
-For companies that drill for oil and gas, Data Gumbo provides blockchain smart contracts. Customers can use these smart contracts to secure the 10's - 100's of millions in savings available from improvements in rig and supplier efficiency.
+For companies that drill for oil and gas, Data Gumbo provides blockchain smart contracts. 
+
+Smart contracts can be used to secure the 10's - 100's of millions in savings available from improvements in rig and supplier efficiency.
 
 A blockchain is a network of interconnected computers that provide an encrypted distributed ledger of transactions. One aspect of blockchain solutions is smart contracts. Smart contracts execute terms of a contract automatically. Automating execution of a contract removes all the “friction” from your business.
 
