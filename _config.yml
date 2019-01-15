@@ -27,7 +27,9 @@ collections:
     posts2018:
         output: true
         permalink: /jekyll-themes/:title/
-
+    posts2019:
+        output: true
+        permalink: /jekyll-themes/:title/
 
 sass:
   sass_dir: _scss

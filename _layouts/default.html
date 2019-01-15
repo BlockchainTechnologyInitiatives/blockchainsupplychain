@@ -56,7 +56,8 @@
 					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#sponsors">Sponsors</a></li>
 					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#organizers">Organizers</a></li>
 					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#contact">Contact</a></li>
-					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/index2018">Past Events</a></li>
+					<!-- <li><a class="nav-item text-center" href="https://blockchainsupplychain.io/index2018">Past Events</a></li> -->
+					{% include pasteve_dropdown.html %}
 					<li><a class="nav-item text-center register" href="https://blockchainsupplychain.io/#register">Register</a></li>
 					{% else %}
 					<li><a onclick="return gtag_report_conversion('https://blockchainsupplychain.io/Agenda-181202v1.pdf');" class="nav-item text-center" href="/Agenda-181202v1.pdf">Agenda</a></li>
@@ -66,7 +67,8 @@
 					<li><a class="nav-item text-center" href="/#sponsors">Sponsors</a></li>
 					<li><a class="nav-item text-center" href="/#organizers">Organizers</a></li>
 					<li><a class="nav-item text-center" href="/#contact">Contact</a></li>
-					<li><a class="nav-item text-center" href="/index2018">Past Events</a></li>					
+					<!-- <li><a class="nav-item text-center" href="/index2018">Past Events</a></li>					 -->
+					{% include pasteve_dropdown.html %}
 					<li><a class="nav-item text-center register" href="/#register">Register</a></li>
 					{% endif %}
 				</ul>
