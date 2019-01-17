@@ -44,34 +44,22 @@
 					<img src="/res/xc2-bscl-logo.svg">
 				</a>
 				<ul class="nav navbar-nav">
-					{% if page.layout == 'default' %}
-					<li><a onclick="return gtag_report_conversion('https://blockchainsupplychain.io/Agenda-181202v1.pdf');" class="nav-item text-center" href="https://blockchainsupplychain.io/Agenda-181202v1.pdf">Agenda</a></li> 
-					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#about">About</a></li> 					
-					<li><a class="nav-item text-center" href="#speakers">Speakers</a></li>		
-					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#venue">Venue</a></li>
-					<li><a class="nav-item text-center" href="#sponsors">Sponsors</a></li>
-					<li><a class="nav-item text-center" href="#organizers">Organizers</a></li>
+					{% if page.layout == 'default' %}					
+					<li><a class="nav-item text-center" href="https://blockchainsupplychain.io/#about">About</a></li> 										
 					<li><a class="nav-item text-center" href="#contact">Contact</a></li>
 					<!-- <li><a class="nav-item text-center" href="index2018">Past Events</a></li> -->
 					{% include pasteve_dropdown.html %}
-					<li><a class="nav-item text-center register" href="#register">Register</a></li>			
 					{% else %}
-					<li><a onclick="return gtag_report_conversion('https://blockchainsupplychain.io/Agenda-181202v1pdf');" class="nav-item text-center" href="https://blockchainsupplychain.io/Agenda-181202v1.pdf">Agenda</a></li>
-					<li><a class="nav-item text-center" href="/#about">About</a></li>					
-					<li><a class="nav-item text-center" href="/#speakers">Speakers</a></li>				
-					<li><a class="nav-item text-center" href="/#venue">Venue</a></li>
-					<li><a class="nav-item text-center" href="/#sponsors">Sponsors</a></li>
-					<li><a class="nav-item text-center" href="/#organizers">Organizers</a></li>
+					<li><a class="nav-item text-center" href="/#about">About</a></li>									
 					<li><a class="nav-item text-center" href="/#contact">Contact</a></li>	
 						{% if  page.url == "/index2018.html" %} 
 						<!-- <li><a class="nav-item text-center register" href="index2018">Past Events</a></li> -->
 						{% include pasteve_dropdown.html %}
-						<li><a class="nav-item text-center" href="/index#register">Register</a></li>
-						<li><a class="nav-item text-center" href="/#UH-&-BTI_Press-Release.html">Press</a></li>					
+						
 						{% else %}
 						<!-- <li><a class="nav-item text-center" href="index2018">Past Events</a></li> -->
 						{% include pasteve_dropdown.html %}
-						<li><a class="nav-item text-center register" href="/index#register">Register</a></li>					
+						
 						{% endif %}
 					{% endif %}
 				</ul>
