@@ -24,12 +24,15 @@ github_username:  jekyll
 markdown: kramdown
 
 collections:
-    posts2018:
+    posts2018May:
         output: true
         permalink: /jekyll-themes/:title/
-    posts2019:
+    posts2018Dec:
         output: true
         permalink: /jekyll-themes/:title/
+    # posts2019:
+    #     output: true
+    #     permalink: /jekyll-themes/:title/
 
 sass:
   sass_dir: _scss
